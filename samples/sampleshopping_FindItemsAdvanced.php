@@ -15,7 +15,7 @@ require_once 'EbatNs_EnvironmentShopping.php';
  * @subpackage samples_shopping
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sampleshopping_FindItemsAdvanced.php,v 1.69 2011-07-22 08:24:01 michael Exp $
+ * @version $Id: sampleshopping_FindItemsAdvanced.php,v 1.70 2011-07-22 08:24:58 michael Exp $
  * @access public 
  */
 class sample_FindItemsAdvanced extends EbatNs_EnvironmentShopping
