@@ -15,7 +15,7 @@ require_once 'EbatNs_EnvironmentShopping.php';
  * @subpackage samples_shopping
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sampleshopping_GeteBayTime.php,v 1.67 2011-07-22 08:21:48 michael Exp $
+ * @version $Id: sampleshopping_GeteBayTime.php,v 1.68 2011-07-22 08:23:04 michael Exp $
  * @access public 
  */
 class sample_GeteBayTime extends EbatNs_EnvironmentShopping
