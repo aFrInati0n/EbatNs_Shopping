@@ -21,7 +21,7 @@ require_once 'EbatNs_Session.php';
 /**
  * The WSDL version the SDK is built against.
  */
-define('EBAY_WSDL_VERSION', '713');
+define('EBAY_WSDL_VERSION', '715');
 
 /**
  * This class is the basic interface to the eBay-Webserice for the user.
@@ -88,22 +88,6 @@ class EbatNs_ServiceProxyShopping extends EbatNs_Client
 	function FindHalfProducts($request)
 	{
 			return $this->callShoppingApiStyle('FindHalfProducts', $request);
-	}
-	/**
-	 * @return FindItemsResponseType
-	 * @param FindItemsRequestType $request 
-	 */
-	function FindItems($request)
-	{
-			return $this->callShoppingApiStyle('FindItems', $request);
-	}
-	/**
-	 * @return FindItemsAdvancedResponseType
-	 * @param FindItemsAdvancedRequestType $request 
-	 */
-	function FindItemsAdvanced($request)
-	{
-			return $this->callShoppingApiStyle('FindItemsAdvanced', $request);
 	}
 	/**
 	 * @return FindPopularItemsResponseType
