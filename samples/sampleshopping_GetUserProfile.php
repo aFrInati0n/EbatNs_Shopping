@@ -15,7 +15,7 @@ require_once 'EbatNs_EnvironmentShopping.php';
  * @subpackage samples_shopping
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sampleshopping_GetUserProfile.php,v 1.88 2012-09-10 11:05:21 michaelcoslar Exp $
+ * @version $Id: sampleshopping_GetUserProfile.php,v 1.89 2012-09-10 11:06:35 michaelcoslar Exp $
  * @access public 
  */
 class sample_GetUserProfile extends EbatNs_EnvironmentShopping
