@@ -21,7 +21,7 @@ require_once 'EbatNs_Session.php';
 /**
  * The WSDL version the SDK is built against.
  */
-define('EBAY_WSDL_VERSION', '691');
+define('EBAY_WSDL_VERSION', '693');
 
 /**
  * This class is the basic interface to the eBay-Webserice for the user.
