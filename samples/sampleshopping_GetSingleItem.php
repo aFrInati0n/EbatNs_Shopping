@@ -15,7 +15,7 @@ require_once 'EbatNs_EnvironmentShopping.php';
  * @subpackage samples_shopping
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sampleshopping_GetSingleItem.php,v 1.85 2012-05-09 11:43:06 michaelcoslar Exp $
+ * @version $Id: sampleshopping_GetSingleItem.php,v 1.86 2012-05-09 11:43:56 michaelcoslar Exp $
  * @access public 
  */
 class sample_GetSingleItem extends EbatNs_EnvironmentShopping

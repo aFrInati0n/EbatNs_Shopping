@@ -15,7 +15,7 @@ require_once 'EbatNs_EnvironmentShopping.php';
  * @subpackage samples_shopping
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sampleshopping_GetShippingCosts.php,v 1.85 2012-05-09 11:43:06 michaelcoslar Exp $
+ * @version $Id: sampleshopping_GetShippingCosts.php,v 1.86 2012-05-09 11:43:56 michaelcoslar Exp $
  * @access public 
  */
 class sample_GetShippingCosts extends EbatNs_EnvironmentShopping
